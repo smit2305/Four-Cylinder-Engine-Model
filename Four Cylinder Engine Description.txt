@@ -46,6 +46,30 @@
  of gravity as compared to layout.
 
 
+> What is a big advantage of a four-cylinder engine?
+     The benefits of a 4-cylinder engine include: 4-cylinder
+ engines tend to be fuel-efficient and are a great buy if you
+ are looking for a small and reliable car. 4-cylinder engines
+ have less of an impact on your carbon footprint than a
+ 6-cylinder engine.
+ 
+
+> Why is 4 cylinder better?
+     Four cylinder engines are typically inline engines (the
+ 4 cylinders are in a straight line as opposed to a V shape
+ like most 6 cylinder engines), making them smaller and lighter
+ weight. This gives them greater fuel economy, but less power,
+ making them ideal for smaller vehicles
+ 
+ 
+ > Who made the first 4 cylinder car?
+   Karl Benz
+     1885/1886 Karl Benz designed and built his own four-stroke
+ engine that was used in his automobile, which was developed in
+ 1885, patented in 1886, and became the first automobile in 
+ series production.
+ 
+ 
 > Source:- Youtube
            Link- https://youtu.be/NZCMTK9VTSQ
 
@@ -56,7 +80,7 @@
      Piston Pin- iron(sandblasted)
 
 
-> Time:- arround - 3.5 to 4 hour
+> Time:- arround - 3.5 to 4 hour(to make this model in solidworks)
 
 
 For more information - https://en.wikipedia.org/wiki/Four-stroke
